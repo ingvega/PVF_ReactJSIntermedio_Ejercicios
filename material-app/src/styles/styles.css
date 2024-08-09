@@ -1,0 +1,18 @@
+.App{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.card {
+    max-width: 345px;
+    margin: 16px;
+}
+
+.card-media{
+    height: 140px;
+}
+
+.fg-1{
+    flex-grow: 1;
+}

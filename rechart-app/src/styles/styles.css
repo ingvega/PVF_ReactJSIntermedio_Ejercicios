@@ -1,0 +1,9 @@
+.contenedor-grafica{
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.contenedor-responsive{
+    width: 100%!important;
+    height: 400px!important;
+}   
